@@ -1,0 +1,12 @@
+# Security & Credentials
+.env
+*.pem
+*.key
+
+# Environments & Cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
