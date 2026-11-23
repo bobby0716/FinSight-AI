@@ -36,7 +36,7 @@ An enterprise financial data engineering and quantitative intelligence platform 
 
 - ** Machine Learning Trend Prediction:** Uses Random Forest classifiers and Gradient Boosting regressors trained on rolling price lags to predict next-day price targets and directional momentum (**Bullish  vs. Bearish **).
 
-- **🔒 Enterprise Security:** Enforces strict zero-credential exposure via `.env` and `.
+- **Enterprise Security:** Enforces strict zero-credential exposure via `.env` and `.
 gitignore`.
 
 - ** Automated Unit Testing:** Includes `unittest` suite testing database connection pools, quantitative formulas, and ML training pipelines.
